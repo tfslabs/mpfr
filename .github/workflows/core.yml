@@ -3,7 +3,7 @@ name: mpfr core forking for GitHub Actions
 on:
   push:
     branches:
-      - no-available-just-rename-in-case-you-want
+      - 4.2.1
 
 permissions:
   contents: write
