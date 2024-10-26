@@ -33,5 +33,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           rm mpfr-4.2.1.tar.xz
           git add .
-          git commit -m "GNU Compiler Collection core forking for GitHub Actions, version 14.2.0"
+          git commit -m "mpfr core forking for GitHub Actions, version 4.2.1"
           git push
